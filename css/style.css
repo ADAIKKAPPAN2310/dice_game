@@ -18,13 +18,13 @@ h1 {
   margin: 10px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #493D9E;
-  font-size: 6.3rem;
+  font-size: 7rem;
   color: #FFF2AF;
   animation-name: head;
 }
 
 p {
-  font-size: 2.5rem;
+  font-size: 3rem;
   color: #FFF2AF;
   font-family: "Montserrat", cursive;
 }
